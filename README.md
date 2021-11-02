@@ -1,0 +1,2 @@
+# Pytorch_Attention_Xception
+Attention_Xception（基于SE/CBAM/CoordAttention注意力机制的Xception神经网络）
